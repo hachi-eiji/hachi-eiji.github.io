@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 副業募集
+title: 副業
 date: 2025-07-26
 ---
 
