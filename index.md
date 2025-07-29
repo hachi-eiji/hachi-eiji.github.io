@@ -3,17 +3,13 @@ layout: home
 title: プロフィール
 ---
 
-<div style="text-align:right; font-size:14px; color: #828282;">最終更新日: 2025/07/01</div>
+<div style="text-align:right; font-size:14px; color: #828282;">最終更新日: 2025/07/25</div>
 
 ## お知らせ
 
-現在副業を探しています。
-以下のようなお手伝いが可能です。詳しくは[副業](/sidejob){:target="_blank"}のページをご覧ください。
+副業は決まりましたので一度閉じさせて頂きます 🙏   
+単発のご相談がある場合はTwitterのDMもしくはメールにてご連絡ください
 
-* Railsアプリケーションの改善提案
-* パフォーマンスチューニング
-* 開発環境改善
-* エンジニア、マネージャーの壁打ち相手
 
 ## 名前
 
