@@ -3,7 +3,7 @@ layout: home
 title: プロフィール
 ---
 
-<div style="text-align:right; font-size:14px; color: #828282;">最終更新日: 2025/07/25</div>
+<div style="text-align:right; font-size:14px; color: #828282;">最終更新日: 2025/07/30</div>
 
 ## お知らせ
 
