@@ -52,6 +52,7 @@ Classi株式会社では、プロダクト部副部長としてエンジニア�
 
 ## 資格
 
+* 日本技術者教育認定機構（JABEE）認定プログラム修了（2004年3月）
 * 基本情報技術者（2004年10月）
 * AWS Certified Solutions Architect - Associate (2019年05月〜）
 
