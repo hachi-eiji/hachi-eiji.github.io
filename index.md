@@ -3,11 +3,12 @@ layout: home
 title: プロフィール
 ---
 
-<div style="text-align:right; font-size:14px; color: #828282;">最終更新日: 2026/02/01</div>
+<div style="text-align:right; font-size:14px; color: #828282;">最終更新日: 2026/07/01</div>
 
 ## お知らせ
 
-副業を探しています。詳細は[副業](sidejob)をご覧ください
+副業は決まりましたので閉じさせて頂きます 🙏
+単発のご相談がある場合はTwitterのDMもしくはメールにてご連絡ください
 
 
 ## 名前
